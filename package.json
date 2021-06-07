@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@hapi/inert": "^6.0.3",
+    "@hapi/vision": "^6.1.0",
+    "hapi-swagger": "^14.1.3"
+  }
+}
